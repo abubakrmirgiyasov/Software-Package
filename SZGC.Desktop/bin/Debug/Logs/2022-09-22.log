@@ -1,0 +1,21 @@
+[2022-09-22 20:59:43.4802] [INFO] Загрузка формы авторизации
+[2022-09-22 20:59:43.6054] [INFO] Загрузка токенов
+[2022-09-22 20:59:43.9514] [INFO] Токен успешно обновлен
+[2022-09-22 20:59:43.9514] [INFO] Автоматическая авторизация
+[2022-09-22 20:59:44.8796] [ERROR] Ошибка -------> Unexpected character encountered while parsing value: <. Path '', line 1, position 1.
+[2022-09-22 20:59:44.9514] [ERROR] Ошибка -------> Unexpected character encountered while parsing value: <. Path '', line 1, position 1.
+[2022-09-22 21:07:28.3332] [INFO] Загрузка формы авторизации
+[2022-09-22 21:07:28.4658] [INFO] Загрузка токенов
+[2022-09-22 21:07:28.5326] [INFO] Токен успешно обновлен
+[2022-09-22 21:07:28.5326] [INFO] Автоматическая авторизация
+[2022-09-22 21:07:29.1141] [ERROR] Ошибка -------> Unexpected character encountered while parsing value: <. Path '', line 1, position 1.
+[2022-09-22 21:07:29.1739] [ERROR] Ошибка -------> Unexpected character encountered while parsing value: <. Path '', line 1, position 1.
+[2022-09-22 21:07:39.8788] [INFO] Авторизация пользователя
+[2022-09-22 21:07:39.9925] [ERROR] Ошибка -------> Unexpected character encountered while parsing value: <. Path '', line 1, position 1.
+[2022-09-22 21:08:21.9486] [INFO] Авторизация пользователя
+[2022-09-22 21:11:42.2975] [INFO] Загрузка формы авторизации
+[2022-09-22 21:11:42.4082] [INFO] Загрузка токенов
+[2022-09-22 21:11:42.4760] [INFO] Токен успешно обновлен
+[2022-09-22 21:11:42.4760] [INFO] Автоматическая авторизация
+[2022-09-22 21:11:43.2592] [ERROR] Ошибка -------> Unexpected character encountered while parsing value: <. Path '', line 1, position 1.
+[2022-09-22 21:11:43.3090] [ERROR] Ошибка -------> Unexpected character encountered while parsing value: <. Path '', line 1, position 1.
